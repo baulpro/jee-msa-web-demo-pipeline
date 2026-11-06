@@ -14,7 +14,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/HenryMauricio/jee-msa-web-demo-pipeline.git
+      uri: https://github.com/baulpro/jee-msa-web-demo-pipeline.git
     sourceSecret:
       name: practica
   strategy:
